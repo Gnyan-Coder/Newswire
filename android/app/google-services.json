@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973715864162",
+    "project_id": "newswire-28b57",
+    "storage_bucket": "newswire-28b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973715864162:android:8051eee9f39d0be75faf3b",
+        "android_client_info": {
+          "package_name": "com.newswire.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973715864162-h1ms68r9o28j4uqi49ltksfjn8mfloas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAB3uOhAzLHb3nRAtpyalBzny1p9-tPRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973715864162-h1ms68r9o28j4uqi49ltksfjn8mfloas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
