@@ -291,7 +291,7 @@ class _MyDrawerState extends State<MyDrawer> {
                                       elevation: 0.5,
                                       child: ListTile(
                                         title: Text(
-                                          newsHeadList[index].newsHead,
+                                          newsHeadList[index].newsHead.length>50?"${newsHeadList[index].newsHead.substring(0,50)} . . .":newsHeadList[index].newsHead,
                                           style: const TextStyle(
                                               fontFamily: 'PoppinsLight',
                                               fontWeight: FontWeight.w600),
